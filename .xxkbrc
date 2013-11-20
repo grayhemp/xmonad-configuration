@@ -1,0 +1,14 @@
+XXkb.group.base: 1
+XXkb.group.alt: 2
+
+XXkb.mainwindow.type: normal
+XXkb.mainwindow.geometry: 15x15+1265+0
+XXkb.mainwindow.image.1: en.svg
+XXkb.mainwindow.image.2: ru.svg
+
+XXkb.button.enable: no
+
+XXkb.controls.add_when_start: no
+XXkb.controls.add_when_change: yes
+XXkb.controls.focusout: yes
+XXkb.controls.mainwindow_delete: no
