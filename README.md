@@ -1,7 +1,7 @@
 # Xmonad Configuration
 
 I'm no longer a user of Xmonad, but hope you will find my
-configuration useful for you.
+configuration useful.
 
 ## Features
 
